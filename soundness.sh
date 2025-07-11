@@ -65,4 +65,6 @@ soundness-cli generate-key --name my-key || {
     exit 1
 }
 
-echo "部署完成!"
+echo "部署完成了"
+
+# 加点注释
